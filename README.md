@@ -32,22 +32,6 @@ It features a clean **Gradio UI**, transcript extraction, post and image generat
 
 ---
 
-## 📁 Folder Structure
-
-```
-📦 YouTube-to-Twitter-Post-Generator-Ai-Tool
-├── main.py                  # Main Gradio GUI and control logic
-├── generate_post.py         # Generate Post & Image via Gemini Api
-├── get_transcript.py        # Get the transcript from YouTube
-├── spreadsheet_schedule.py  # Create Schedule & Auto Posting on Twitter
-├── twittering.py            # Post function of Twitter API
-├── api_key.py               # Gemini & Twitter API & Secret Keys stored here
-├── requirements.txt         # Necessary Modules
-└── README.md                # Project documentation
-```
-
----
-
 ## ⚙️ Technologies Used
 
 * **Python**: Core backend
@@ -201,6 +185,23 @@ git clone https://github.com/Ragib301/YouTube-to-Twitter-Post-Generator-Ai-Tool.
 cd YouTube-to-Twitter-Post-Generator-Ai-Tool
 pip install -r requirements.txt
 python main.py
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+📦 YouTube-to-Twitter-Post-Generator-Ai-Tool
+├── main.py                  # Main Gradio GUI and control logic
+├── generate_post.py         # Generate Post & Image via Gemini Api
+├── get_transcript.py        # Get the transcript from YouTube
+├── spreadsheet_schedule.py  # Create Schedule & Auto Posting on Twitter
+├── twittering.py            # Post function of Twitter API
+├── api_key.py               # Gemini & Twitter API & Secret Keys stored here
+├── background.jpg           # Gradio Ui Background Image
+├── requirements.txt         # Necessary Modules
+└── README.md                # Project documentation
 ```
 
 ---
