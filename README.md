@@ -221,4 +221,4 @@ MIT License — feel free to fork, modify, and share!
 
 ## 📬 Feedback & Contributions
 
-Open to issues, improvements, and ideas. PRs welcome!
+> Built as a side-project with love, curiosity, and coffee ☕. Contributions welcome!
