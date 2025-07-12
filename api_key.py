@@ -1,0 +1,6 @@
+ACCESS_KEY = "your_twitter_access_key_here"
+ACCESS_SECRET = "your_twitter_access_secret_here"
+CONSUMER_KEY = "your_twitter_consumer_key_here"
+CONSUMER_SECRET = "your_twitter_consumer_secret_here"
+BEARER_TOKEN = r"your_twitter_bearer_token_here"
+GEMINI_API = "your_gemini_api_key_here"
