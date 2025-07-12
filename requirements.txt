@@ -1,0 +1,8 @@
+gradio
+youtube-transcript-api
+pytube
+tweepy
+google-genai
+pandas
+Pillow
+schedule
