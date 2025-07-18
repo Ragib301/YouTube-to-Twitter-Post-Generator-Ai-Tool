@@ -5,8 +5,6 @@ from generate_post import generate_posts, generate_data
 from spreadsheet_schedule import create_spreadsheet, run_schedule
 
 
-# https://youtu.be/W4tqbEmplug?si=oZBykixw62l6_E0N
-
 def main_func(video_url, post_count, progress=gr.Progress()):
     progress(0.0, desc="Starting...")
     transcript, video_id = get_youtube_transcript(video_url)
