@@ -29,6 +29,8 @@ It features a clean **Gradio UI**, transcript extraction, post and image generat
 ## 📸 Screenshots
 <img width="1366" height="768" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/26894f02-8f77-4d05-81d3-13dbff3f863c" />
 <img width="1366" height="768" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/4f328b0c-55bd-44dd-830e-0303665a0fd0" />
+<img width="1345" height="615" alt="image" src="https://github.com/user-attachments/assets/3323d15f-ef27-4b78-93bf-e39443297eb3" />
+
 
 ---
 
